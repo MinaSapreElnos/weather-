@@ -1,0 +1,23 @@
+.logo{
+    height: 20px;
+}
+.card-footer img{
+    width: 20px;
+}
+.header{
+    background-image: url(../imges/bg.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 100vh;
+}
+
+.footer p{
+    margin-top: 50px;
+}
+
+.socsial i{
+    color: #009ad8;
+}
+.cardBody h5{
+    color: #009ad8;
+}
